@@ -1204,7 +1204,7 @@ img{
 .main-menu .navigation > li > a{
 	position:relative;
 	display:block;
-	color:#ffffff;
+	color: black;
 	text-align:center;
 	line-height:30px;
 	text-transform:capitalize;
@@ -8407,7 +8407,7 @@ input:focus{
 
 .main-slider-two .content-column h1{
 	position: relative;
-    color: #ffffff;
+    color: black;
     font-weight: 700;
     font-size: 48px;
     line-height: 1.2em;
@@ -8435,7 +8435,7 @@ input:focus{
 
 .main-slider-two .content-column .text{
 	position: relative;
-    color: #ffffff;
+    color: black;
     font-size: 18px;
     line-height: 2.1em;
     margin-bottom: 40px;
